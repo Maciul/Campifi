@@ -16,3 +16,6 @@ Technologies Used:
 
 ### Deployed URL
 https://campifi.herokuapp.com/
+
+
+![Campifi Landing Page](https://github.com/Maciul/Campifi/blob/master/images/campifiski.png)
