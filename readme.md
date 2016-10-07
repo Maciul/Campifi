@@ -1,4 +1,4 @@
-#Smart Home
+#Campifi
 
 ### Project Description
 
